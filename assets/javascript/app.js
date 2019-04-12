@@ -1,5 +1,6 @@
 $(document).ready(function () {
 
+<<<<<<< HEAD
     var rapidAPI = "7ba93ae7bfmsh489625be869c93bp1fc810jsne3c26e878543";
 
     $("#search-button").on("click", function (event) {
