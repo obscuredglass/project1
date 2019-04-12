@@ -1,10 +1,30 @@
-#jumbocss {
+/* #jumbocss {
     background: tomato;
     color: black;
     font-family: 'Noto Serif', serif;
+} */
+.movieText{
+    
 }
+
+#maincss{
+    margin-top: 200px;
+}
+
 
 #dropButton{
     margin-top: 20px;
 }
+
+.divImg {
+    background-image: url("../images/film_background.jpg");
+    background-position: initial
+
+}
+
+.bdyImg{
+    background-image: url("../images/retro_movie_bgd.png")
+}
+
+
 
