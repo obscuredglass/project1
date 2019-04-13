@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # project1
 Movie App
+<<<<<<< HEAD
 =======
 Movie app
 ...
@@ -44,3 +45,6 @@ unirest.get("https://streamzui-streamzui-v1.p.rapidapi.com/deleted?country={coun
 
 http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=rrhx9vtcs5fpnqkjdcvtt6zu&q=alien&page_limit=1
 >>>>>>> commit
+=======
+....
+>>>>>>> 3ad9374b7783cb99aa187d5a0abb5bc89eeb5153
