@@ -2,6 +2,7 @@ $(document).ready(function () {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     var rapidAPI = "7ba93ae7bfmsh489625be869c93bp1fc810jsne3c26e878543";
 
     $("#search-button").on("click", function (event) {
@@ -72,6 +73,8 @@ $(document).ready(function () {
     //    displayMovieFunction()
     //leave me here!
 =======
+=======
+>>>>>>> 8da2b4b233c0973acbf174eea93aaf4d1aed395b
   // var rapidAPI = "7ba93ae7bfmsh489625be869c93bp1fc810jsne3c26e878543";
   //genreSearch holds formatted version of genre0
   //recString holds converted value for genre for omdb value of genre stores in genreSearch
@@ -206,5 +209,8 @@ $(document).ready(function () {
 
   //lol
   //leave me here!
+<<<<<<< HEAD
 >>>>>>> test branch
+=======
+>>>>>>> 8da2b4b233c0973acbf174eea93aaf4d1aed395b
 });

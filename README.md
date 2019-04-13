@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # project1
 Movie App
 =======
+=======
+>>>>>>> 8da2b4b233c0973acbf174eea93aaf4d1aed395b
 Movie app
 
 API KEYS
@@ -43,4 +46,7 @@ unirest.get("https://streamzui-streamzui-v1.p.rapidapi.com/deleted?country={coun
 });
 
 http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=rrhx9vtcs5fpnqkjdcvtt6zu&q=alien&page_limit=1
+<<<<<<< HEAD
 >>>>>>> commit
+=======
+>>>>>>> 8da2b4b233c0973acbf174eea93aaf4d1aed395b
